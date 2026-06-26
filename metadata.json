@@ -1,0 +1,6 @@
+{
+  "name": "Glowistry",
+  "description": "Glowistry – Where Beauty Meets Confidence. Premium, skin-friendly, and cruelty-free formulas suitable for all skin types.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
